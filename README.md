@@ -11,7 +11,8 @@ E to interact.
 F to talk.
 R to reset cycle.
 
-Screenshots:![image](https://user-images.githubusercontent.com/42797071/219149409-f7c674f0-a6da-49dd-b5b3-82490122e597.png)
+Screenshots:
+![image](https://user-images.githubusercontent.com/42797071/219149409-f7c674f0-a6da-49dd-b5b3-82490122e597.png)
 ![image](https://user-images.githubusercontent.com/42797071/219149584-b2817a06-07c1-4e01-a657-dccf92157258.png)
 
 
